@@ -11,7 +11,7 @@ Oscilloscope
 
 Modulator & Demodulator
 
-Python Program for ASK Modulation:
+## Python Program for ASK Modulation:
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -77,8 +77,7 @@ plt.tight_layout()
 plt.show()
 
 ## output :
-![image](https://github.com/user-attachments/assets/9227d3eb-5103-4ea1-8c83-c6cd76643d2a)
-
+![image](https://github.com/user-attachments/assets/e7c3c3ac-9baf-4fca-9ccb-a846989d35ee)
 
 ## Result :
 The binary data was successfully modulated using Amplitude Shift Keying (ASK).
