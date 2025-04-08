@@ -76,11 +76,11 @@ plt.tight_layout()
 
 plt.show()
 
-## output 
+## output :
 ![image](https://github.com/user-attachments/assets/9227d3eb-5103-4ea1-8c83-c6cd76643d2a)
 
 
-## Results:
+## Result :
 The binary data was successfully modulated using Amplitude Shift Keying (ASK).
 
 The ASK waveform was observed, where carrier presence represents '1' and absence represents '0'.
